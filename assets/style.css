@@ -1,0 +1,9 @@
+App.background {
+    background-color: hsl(206deg 100% 73%);
+    color: black;
+}
+
+.immersive-reader-button {
+    background-color: hsl(206deg 100% 73%);
+    color: black;
+}
